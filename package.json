@@ -21,7 +21,7 @@
     "gulp-image": "2.7.2",
     "gulp-rev-all": "0.9.7",
     "gulp-rev-napkin": "0.1.0",
-    "gulp-sass": "2.3.2",
+    "gulp-sass": "3.0.0",
     "gulp-sequence": "0.4.6",
     "gulp-sourcemaps": "1.9.1",
     "gulp-uglify": "2.0.0",

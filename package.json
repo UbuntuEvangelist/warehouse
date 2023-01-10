@@ -23,7 +23,7 @@
     "gulp-rev-napkin": "0.1.0",
     "gulp-sass": "2.3.2",
     "gulp-sequence": "0.4.6",
-    "gulp-sourcemaps": "1.9.1",
+    "gulp-sourcemaps": "2.0.0",
     "gulp-uglify": "2.0.0",
     "gulp-watch": "4.3.11",
     "imports-loader": "0.6.5",
@@ -31,7 +31,7 @@
     "uglify-js": "2.7.5",
     "vinyl-named": "1.1.0",
     "webpack": "2.1.0-beta.27",
-    "webpack-dependency-suite": "1.5.0",
+    "webpack-dependency-suite": "2.4.5",
     "webpack-stream": "3.2.0",
     "whatwg-fetch": "2.0.1"
   },

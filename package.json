@@ -13,7 +13,7 @@
     "del": "2.2.2",
     "exports-loader": "0.6.3",
     "font-awesome": "4.7.0",
-    "gulp": "3.9.1",
+    "gulp": "5.0.0",
     "gulp-batch": "1.0.5",
     "gulp-brotli": "1.2.0",
     "gulp-cssnano": "2.1.2",

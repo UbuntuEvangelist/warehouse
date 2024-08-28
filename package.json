@@ -30,9 +30,9 @@
     "jquery": "3.1.1",
     "uglify-js": "2.7.5",
     "vinyl-named": "1.1.0",
-    "webpack": "2.1.0-beta.27",
+    "webpack": "5.94.0",
     "webpack-dependency-suite": "1.5.0",
-    "webpack-stream": "3.2.0",
+    "webpack-stream": "7.0.0",
     "whatwg-fetch": "2.0.1"
   },
   "devDependencies": {
